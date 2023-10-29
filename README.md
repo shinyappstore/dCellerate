@@ -1,4 +1,4 @@
-
+![](s516_9gsWjBK41YHjGwas5vSlkGxS5rDcfMgZg1AXHB5a_logo_39.jpg)
 # dCellerate: Unlock Single-Cell RNA-Seq Insights with Ease
 
 #### Use app online: __[www.shinyappstore.com/a/dCellerate](https://shinyappstore.com/a/dCellerate)__
